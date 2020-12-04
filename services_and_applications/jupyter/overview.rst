@@ -137,6 +137,8 @@ Example: Creating a Conda environment for Tensorflow
    * When you refresh the page and look at the Launcher, you will see buttons labelled
      ``tensorflowenv``. Clicking it will start a Notebook or Console running in your
      ``tensorflowenv`` environment.
+
+     .. image:: /images/jupyter/jupyterlab_newenv.png
      
 #. Back in our Terminal, with our environment still activated, install Tensorflow with
    ``conda install tensorflow`` (or ``pip install tensorflow`` for the latest
